@@ -86,7 +86,14 @@
                             </nav>
                         </div>
                         <!--main menu end-->
-                        
+                        <div style="visibility: hidden" class="header_right_sidebar d-flex align-items-center">
+                            <div class="sing_up_btn">
+                                <a class="btn btn-link" href="registration.html">SIGN UP <img width="15" height="15" src="assets/img/icon/arrrow-icon2.webp" alt=""> </a>
+                            </div>
+                            <div class="canvas_open">
+                                <button type="button" data-bs-toggle="offcanvas" data-bs-target="#offcanvasMenu"><i class="icofont-navigation-menu"></i></button>
+                            </div>
+                        </div>
                     </div>
                 </div>
             </div>
