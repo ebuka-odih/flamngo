@@ -14,8 +14,8 @@ include('header.php')
                     <div class="row align-items-center">
                         <div class="col-12">
                             <div class="hero_content">
-                                <h1 class="wow fadeInUp" data-wow-delay="0.1s" data-wow-duration="1.1s">Best Game <br>
-                                    Playing Today.</h1>
+                                <h1 class="wow fadeInUp" data-wow-delay="0.1s" data-wow-duration="1.1s">Welcome to <br>
+                                    Flamngo.</h1>
                                 <p class="wow fadeInUp" data-wow-delay="0.2s" data-wow-duration="1.2s">Simply text of the printing and typesetting industry.</p>
                                 <a class="btn btn-link wow fadeInUp" data-wow-delay="0.3s" data-wow-duration="1.3s" href="all-game.html">Play Now <img width="20" height="20" src="assets/img/icon/arrrow-icon.webp" alt=""> </a>
                             </div>
@@ -24,7 +24,7 @@ include('header.php')
                 </div>    
             </div>
             <div class="hero_position_img">
-                <img width="926" height="772" src="assets/img/bg/hero-position-img.webp" alt="">
+                <img style="height: 600px; width: 600px"  src="assets/img/flamngo.png" alt="">
             </div>
         </section>
         <!--slider area end-->
