@@ -39,7 +39,10 @@
                 <div class="col-12">
                     <div class="main_header d-flex justify-content-between align-items-center">
                         <div class="header_logo">
-                            <a class="sticky_none" href="index.html"><img aria-label="logo" width="215" height="79" src="assets/img/logo/logo.webp" alt=""></a>
+                            <a class="sticky_none" href="index.php">
+                                <h3 style="font-weight: bolder; ">FLAMNGO</h3>
+<!--                                <img aria-label="logo" width="215" height="79" src="assets/img/logo/logo.webp" alt="">-->
+                            </a>
                         </div>
                         <!--main menu start-->
                         <div class="main_menu d-none d-lg-block"> 
